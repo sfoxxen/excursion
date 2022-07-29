@@ -25,3 +25,10 @@ font-size: 42px;
     font-size: 16px;
     color: aquamarine;
 }
+
+/* FOOTER */
+.footer-style {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
